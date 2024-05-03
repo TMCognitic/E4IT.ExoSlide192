@@ -11,6 +11,7 @@
 
             if(A == 0)
             {
+                Console.Write("A == 0! ");
                 return false;
             }
 
@@ -18,6 +19,7 @@
 
             if(delta < 0)
             {
+                Console.Write("Delta < 0! ");
                 return false;
             }
 
